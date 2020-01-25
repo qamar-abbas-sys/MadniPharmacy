@@ -1,0 +1,550 @@
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.productform.resources
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+c:\users\sufyan ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showuser.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\itextsharp.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Sufyan Ahmed\documents\visual studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SpalshSecreen.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.productform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+C:\Users\Sufyan Ahmed\OneDrive\Documents\Visual Studio 2015\Projects\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\itextsharp.xml
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowSalesRecord.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+C:\Users\Qamar\Documents\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.ResolveComReference.cache
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.ResolveComReference.cache
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+D:\pro\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\pro\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.ResolveComReference.cache
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\itextsharp.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Sufyan Ahmed\OneDrive\Desktop\New folder\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.ResolveComReference.cache
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+C:\Users\Qamar\Desktop\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe.config
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.ResolveComReference.cache
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.exe
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.pdb
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.exe
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MadniPharmacy.pdb
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Design.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MetroFramework.Fonts.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Micron.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\MySql.Data.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\SplashScreen.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\System.Windows.Interactivity.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Core.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Wider.Splash.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\DryIoc.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.pdb
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.DryIoc.Wpf.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.pdb
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\Prism.Wpf.xml
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csprojResolveAssemblyReference.cache
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.addcompany.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adddistributerform.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Adduser.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.AdminMenu.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Login.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ProductForm.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Properties.Resources.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.PurchaseProduct.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SaleProduct.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showcompany.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showdistributer.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.showproductform.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showpurchase.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Showsale.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.ShowUser.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.SplashSecreen_1.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updatecompany.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updatedistributer.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.updateproductform.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdatePurchase.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UpdateSaleRecord.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.Updateuser.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.UserMenu.resources
+D:\MadniPharmacy\MadniPharmacy\obj\Debug\MadniPharmacy.csproj.GenerateResource.Cache

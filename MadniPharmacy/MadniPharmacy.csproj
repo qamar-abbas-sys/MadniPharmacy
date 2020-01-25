@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0799FB93-F3E8-4BA6-BFDF-4F13229361AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MadniPharmacy</RootNamespace>
+    <AssemblyName>MadniPharmacy</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DryIoc, Version=3.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DryIoc.dll.3.0.2\lib\net45\DryIoc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Micron, Version=1.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Micron.1.8.0\lib\Micron.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\Micron.1.8.0\lib\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Prism, Version=7.1.0.431, Culture=neutral, PublicKeyToken=40ee6c3a2184dc59, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Core.7.1.0.431\lib\net45\Prism.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Prism.DryIoc.Wpf, Version=7.1.0.431, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.DryIoc.7.1.0.431\lib\net45\Prism.DryIoc.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Prism.Wpf, Version=7.1.0.431, Culture=neutral, PublicKeyToken=40ee6c3a2184dc59, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Wpf.7.1.0.431\lib\net45\Prism.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SplashScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SplashScreen.Winforms.1.0.0\lib\SplashScreen.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Wpf.7.1.0.431\lib\net45\System.Windows.Interactivity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Wider.Core, Version=0.2.14.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Wider.Core.0.2.14\lib\net45\Wider.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Wider.Splash, Version=0.2.14.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Wider.Splash.0.2.14\lib\net45\Wider.Splash.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2013, Version=2.9.0.1, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xceed.Wpf.AvalonDock.Themes.VS2013.2.9.0.1\lib\net40-client\Xceed.Wpf.AvalonDock.Themes.VS2013.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.5.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addcompany.Designer.cs">
+      <DependentUpon>addcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adddistributerform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adddistributerform.Designer.cs">
+      <DependentUpon>Adddistributerform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adduser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adduser.Designer.cs">
+      <DependentUpon>Adduser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Admin.cs" />
+    <Compile Include="Classes\company.cs" />
+    <Compile Include="Classes\Connection.cs" />
+    <Compile Include="Classes\Distributer.cs" />
+    <Compile Include="Classes\Product.cs" />
+    <Compile Include="Classes\Purchase.cs" />
+    <Compile Include="Classes\Sales.cs" />
+    <Compile Include="Classes\user.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductForm.designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseProduct.designer.cs">
+      <DependentUpon>PurchaseProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleProduct.designer.cs">
+      <DependentUpon>SaleProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showcompany.Designer.cs">
+      <DependentUpon>showcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Showdistributer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Showdistributer.Designer.cs">
+      <DependentUpon>Showdistributer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showproductform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showproductform.Designer.cs">
+      <DependentUpon>showproductform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Showpurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Showpurchase.Designer.cs">
+      <DependentUpon>Showpurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Showsale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Showsale.Designer.cs">
+      <DependentUpon>Showsale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowUser.Designer.cs">
+      <DependentUpon>ShowUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashSecreen_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashSecreen_1.Designer.cs">
+      <DependentUpon>SplashSecreen_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatecompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatecompany.Designer.cs">
+      <DependentUpon>updatecompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Updatedistributer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Updatedistributer.Designer.cs">
+      <DependentUpon>Updatedistributer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateproductform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateproductform.Designer.cs">
+      <DependentUpon>updateproductform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePurchase.Designer.cs">
+      <DependentUpon>UpdatePurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSaleRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateSaleRecord.Designer.cs">
+      <DependentUpon>UpdateSaleRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Updateuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Updateuser.Designer.cs">
+      <DependentUpon>Updateuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserMenu.Designer.cs">
+      <DependentUpon>UserMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addcompany.resx">
+      <DependentUpon>addcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adddistributerform.resx">
+      <DependentUpon>Adddistributerform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adduser.resx">
+      <DependentUpon>Adduser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PurchaseProduct.resx">
+      <DependentUpon>PurchaseProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleProduct.resx">
+      <DependentUpon>SaleProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showcompany.resx">
+      <DependentUpon>showcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Showdistributer.resx">
+      <DependentUpon>Showdistributer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showproductform.resx">
+      <DependentUpon>showproductform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Showpurchase.resx">
+      <DependentUpon>Showpurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Showsale.resx">
+      <DependentUpon>Showsale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowUser.resx">
+      <DependentUpon>ShowUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashSecreen_1.resx">
+      <DependentUpon>SplashSecreen_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatecompany.resx">
+      <DependentUpon>updatecompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Updatedistributer.resx">
+      <DependentUpon>Updatedistributer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateproductform.resx">
+      <DependentUpon>updateproductform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePurchase.resx">
+      <DependentUpon>UpdatePurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateSaleRecord.resx">
+      <DependentUpon>UpdateSaleRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Updateuser.resx">
+      <DependentUpon>Updateuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserMenu.resx">
+      <DependentUpon>UserMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include="Resources\019_016_import_save_download-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1336796.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_-_Cross-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\precedent_rouge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13367961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_-_Cross-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\precedent_rouge1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13367962.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\172011.png" />
+    <Content Include="Images\256-256-ab5a2912450d4fa192c8512862ec3ceb.png" />
+    <Content Include="Images\277210.png" />
+    <Content Include="Images\306232.png" />
+    <Content Include="Images\388-3882701_distributor-login-orange-group-icon-clipart.png" />
+    <Content Include="Images\401176.png" />
+    <Content Include="Images\add-user-flat-icon-vector-14991365.jpg" />
+    <Content Include="Images\bank-512.png" />
+    <Content Include="Images\company-building-gradient-round-icon-vector-8301236.jpg" />
+    <Content Include="Images\connections-flat-icon-vector-7303501.jpg" />
+    <Content Include="Images\eye.png" />
+    <Content Include="Images\Food-Distribution-Icon.png" />
+    <Content Include="Images\graph-circle-blue-512.png" />
+    <Content Include="Images\icon_distributor_200.png" />
+    <Content Include="Images\new-512.png" />
+    <Content Include="Images\products.png" />
+    <Content Include="Images\sale_icon_183061.jpg" />
+    <Content Include="Images\shares-company-finance-512.png" />
+    <None Include="Resources\2279089124.jpg" />
+    <None Include="Resources\pharmacy-background_17104092.jpg" />
+    <None Include="Resources\2279089123.jpg" />
+    <None Include="Resources\500_F_236169807_L25ONnt7kU7QfNBjeQcm4KzB5XYxD4HO1.jpg" />
+    <None Include="Resources\500_F_200811240_Q3ibAC5ubR7pcufAjZFHtOz9afPeb8vs2.jpg" />
+    <None Include="Resources\prescription-drugs2.jpg" />
+    <None Include="Resources\clr.png" />
+    <None Include="Resources\0.png" />
+    <None Include="Resources\9.png" />
+    <None Include="Resources\8-PNG-Image-21213.png" />
+    <None Include="Resources\images7.png" />
+    <None Include="Resources\6-icon-26.jpg" />
+    <None Include="Resources\STC_line_5_icon.png" />
+    <None Include="Resources\images4.png" />
+    <None Include="Resources\3 icon.png" />
+    <None Include="Resources\number-2-icon-png-25.jpg" />
+    <None Include="Resources\1-icon-16.jpg" />
+    <None Include="Resources\brackets-icon.png" />
+    <None Include="Resources\9b723eb859b9d114416a28dd3f4b9a7f.gif" />
+    <None Include="Resources\pharmacy-background_17104091.jpg" />
+    <None Include="Resources\2279089122.jpg" />
+    <None Include="Resources\500_F_200811240_Q3ibAC5ubR7pcufAjZFHtOz9afPeb8vs1.jpg" />
+    <None Include="Resources\prescription-drugs1.jpg" />
+    <None Include="Resources\pharmacy-background_1710409.jpg" />
+    <None Include="Resources\2279089121.jpg" />
+    <None Include="Resources\227908912.jpg" />
+    <None Include="Resources\500_F_236169807_L25ONnt7kU7QfNBjeQcm4KzB5XYxD4HO.jpg" />
+    <None Include="Resources\500_F_200811240_Q3ibAC5ubR7pcufAjZFHtOz9afPeb8vs.jpg" />
+    <None Include="Resources\69cb071234b026b80e083db1009c9f48.jpg" />
+    <None Include="Resources\prescription-drugs.jpg" />
+    <None Include="Resources\4 %281%29.jpg" />
+    <None Include="Resources\256-256-ab5a2912450d4fa192c8512862ec3ceb.png" />
+    <None Include="Resources\products.png" />
+    <None Include="Resources\401176.png" />
+    <None Include="Resources\graph-circle-blue-512.png" />
+    <None Include="Resources\eye-128.png" />
+    <None Include="Resources\connections-flat-icon-vector-7303501.jpg" />
+    <None Include="Resources\Food-Distribution-Icon.png" />
+    <None Include="Resources\bank-512.png" />
+    <None Include="Resources\shares-company-finance-512.png" />
+    <None Include="Resources\172011.png" />
+    <None Include="Resources\new-512.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\306232.png" />
+    <None Include="Resources\277210.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Scripts\typings\react-css-transition-replace\react-css-transition-replace.d.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\NuGet.VisualStudio.4.6.4\build\NuGet.VisualStudio.targets" Condition="Exists('..\packages\NuGet.VisualStudio.4.6.4\build\NuGet.VisualStudio.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NuGet.VisualStudio.4.6.4\build\NuGet.VisualStudio.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NuGet.VisualStudio.4.6.4\build\NuGet.VisualStudio.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
